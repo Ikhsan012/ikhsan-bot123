@@ -1,0 +1,1 @@
+worker: npm install -g pm2 && npm install && pm2 link lta0ee86cqtarmk sw50ruphpm59ber && pm2 start index.js

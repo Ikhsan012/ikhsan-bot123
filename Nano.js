@@ -839,7 +839,7 @@ isForwarded: true,
 "body": `${nanoliatwaktu} ${pushname} 👋🏻`,
 "previewType": "VIDEO",
 "thumbnailUrl": 'https://cdn.itzky.us.kg/file/mnlZyS7jAX.png',
-"sourceUrl": 'https://instagram.com/jr_danzz'}}},
+"sourceUrl": 'https://instagram.com/ikhsan_bruhhz'}}},
 { quoted: m})
 }
 
