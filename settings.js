@@ -28,7 +28,7 @@ global.anovo = 'gtw' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
 global.botname = "Ikhsan ID"
 global.ownernumber = '6285757835996'
-global.botnumber = '6283137750223'
+global.botnumber = '6281246188284'
 global.ownername = 'Ikhsan'
 global.ownerNumber = ["6285757835996@s.whatsapp.net"]
 global.ownerweb = ""
